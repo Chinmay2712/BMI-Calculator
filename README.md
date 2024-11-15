@@ -10,7 +10,7 @@ Cross-Platform: Works seamlessly on iOS, Android, and other platforms supported 
  
 Installation
 1. Clone the repository:
-git clone https://github.com/your-username/bmi-calculator.git
+git clone https://github.com/Chinmay2712/bmi-calculator.git
 
 2. Navigate to the project directory:
 cd bmi-calculator
