@@ -26,7 +26,6 @@ Framework: Flutter
 
 Language: Dart
 
-# 📝 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
 
 Feel free to improve the project and submit pull requests! Happy coding! 😊
